@@ -1,0 +1,26 @@
+Russian Fed., 2.296, WELL Above Average
+Norway, 50.89, WELL Above Average
+Canada, 7.083, WELL Above Average
+United States, 0.882, Below Average
+Netherlands, 14.252, WELL Above Average
+Germany, 2.357, WELL Above Average
+Switzerland, 13.56, WELL Above Average
+Belarus, 6.337, WELL Above Average
+Austria, 19.989, WELL Above Average
+France, 2.278, WELL Above Average
+Poland, 1.558, Above Average
+China, 0.066, WELL Below Average
+Korea, 1.593, Above Average
+Sweden, 15.552, WELL Above Average
+Czech Republic, 7.609, WELL Above Average
+Slovenia, 38.801, WELL Above Average
+Japan, 0.629, WELL Below Average
+Finland, 9.17, WELL Above Average
+Great Britain, 0.628, WELL Below Average
+Ukraine, 0.44, WELL Below Average
+Slovakia, 1.847, WELL Above Average
+Italy, 1.335, Above Average
+Latvia, 19.948, WELL Above Average
+Australia, 1.282, Above Average
+Croatia, 2.331, WELL Above Average
+Kazakhstan, 0.583, WELL Below Average

@@ -1,0 +1,11 @@
+Hello World00:00:00.179 INFO [CommandExecutionEngine] starting transaction 22.08.2017 00:15:27.549 INFO [COMMAND] Car Details,additionalID ,vin EFG123456789, modelCode NEW XTRAIL MY17
+
+22.08.2017 00:15:29.001 INFO [COMMAND] Car Details,additionalID, chassis 54715, vin ABC123324679,modelCode JUKE FACELIFT,
+
+22.08.2017 00:15:35.413 INFO [COMMAND] Car Details,additionalID, vin ABC258741258,modelCode JUKE FACELIFT
+
+22.08.2017 08:10:28.169 INFO [COMMAND] Car Details,additionalID, chassis 25417, vin KFE456985234,modelCode NEW GALAXY,color BLUE
+
+22.08.2017 08:10:28.503 INFO [COMMAND] Car Details,additionalID, vin BFE874512458,modelCode MONDEO 5D,color SILVER
+
+22.08.2017 08:10:28.810 INFO [COMMAND] Car Details, vin ABC123456789,modelCode CONNECT V,color SILVER

@@ -1,0 +1,5 @@
+date = input('Enter date in the format (DD.MM.YY) : ')
+dd, mm, yyyy = date.strip().split('.')
+print('day = ',dd)
+print('month = ',mm)
+print('year = ',yyyy)

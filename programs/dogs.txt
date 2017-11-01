@@ -1,0 +1,5 @@
+House 7
+Office 2
+Skyscraper 5
+Shack 9
+Condo 8

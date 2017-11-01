@@ -1,0 +1,6 @@
+bin/
+include/
+lib/
+*.cfg
+.DS_Store
+**/.DS_Store
