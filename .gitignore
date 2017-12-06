@@ -4,3 +4,5 @@ lib/
 *.cfg
 .DS_Store
 **/.DS_Store
+*.csv
+*.json
